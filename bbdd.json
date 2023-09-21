@@ -1,0 +1,41 @@
+{
+  "usuarios": [
+    {
+      "nombre": " Sara Velazques ",
+      "email": "SARA@gmail.com",
+      "password": "000000",
+      "id": 27
+    },
+    {
+      "nombre": "ANDRES",
+      "email": "ANDRES@gmail.com",
+      "password": "123456",
+      "id": 29
+    },
+    {
+      "nombre": "DANIEL4",
+      "email": "DANI@gmail.com4",
+      "id": 30
+    }
+  ],
+  "tiquet": [
+    {
+      "id": 1,
+      "chat_id": 1
+    },
+    {
+      "id": 2,
+      "chat_id": 2
+    }
+  ],
+  "chat": [
+    {
+      "chat_id": 1,
+      "descripcion": "inicio de proceso"
+    },
+    {
+      "chat_id": 2,
+      "descripcion": "contacto de finalizacion"
+    }
+  ]
+}
